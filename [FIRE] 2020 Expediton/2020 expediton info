@@ -1,0 +1,30 @@
+Expedition Sirens
+ Siren #	Sequencer  	Color 	  Rotation
+siren 1 - -1565208023 0xFFFF0000 NONE
+siren 2 - 338073925 0xFFFF0000 NONE
+siren 3 - -1386564242 0xFFFF0000 NONE
+siren 4 - -1449025365 0xFFFFD700 NONE
+siren 5 -  1410996823 0xFFFF0000 NONE
+siren 6 -  -737329068 0xFF0000FF 1.57079633
+siren 7 -  55588181 0xFFFF0000 1.57079633
+siren 8 - -737329068 0xFFFF0000 -1.57079633
+siren 9 - 55588181 0xFFFF0000 -1.57079633
+siren 10 - -1568003934 0xFFFF0000 3.14159265
+siren 11 - 340870420 0xFF0000FF 3.14159265
+siren 12 - -1431655766 0xFFFFD700 3.14159265
+siren 13 - 1094795588 0xFFFFD700 3.14159265
+siren 14 - 572662314 0xFFFFD700 3.14159265
+siren 15 - 336860177 0xFFFFD700 3.14159265
+siren 16 - -477218582 0xFFFF0000 3.14159265 
+siren 17 - 477218570 0xFFFF0000 3.14159265
+siren 18 - -477218582 0xFFFFD700 NONE
+siren 19 - 4294967295 0xFFFFFFFF NONE
+siren 20 - -477218582 0xFF008000 3.14159265
+
+Extras:
+Extra 1 - Front Lights Kill Switch
+Extra 2 - Back Lightbar Lights
+Extra 3 - Back Lightbar Traffic Advisor
+Extra 4 - Front Flood light flashers (Amber)
+Extra 5 - Front Flood light White takedown
+Extra 6 - Command Light on roof
